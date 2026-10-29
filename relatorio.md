@@ -1,7 +1,5 @@
 # Relatório — Atividade Prática de Git e GitHub
 
-**Repositório:** [POObonus](https://github.com/felipeveloso-debug/POObonus)
-
 ## 1. Objetivo
 
 Demonstrar a utilização dos principais recursos do Git e do GitHub, incluindo clonagem de repositórios, controle de versões por commits, envio de alterações ao repositório remoto e utilização de branches.
